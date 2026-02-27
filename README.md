@@ -3,18 +3,18 @@
 This repository contains a minimal Java 17 project with standalone programs for common interview problems.
 Each class has a short mindmap comment and a `main` method for quick runs.
 
-## Problems Included
+## Problems Included (In Order)
 
-- Two Sum
-- Merge Intervals
-- Number of Islands
-- Minimum Remove to Make Valid Parentheses
-- Valid Palindrome II
-- Valid Parentheses
-- Subarray Sum Equals K
-- Longest Substring Without Repeating Characters
-- Kth Largest Element in an Array
-- Trapping Rain Water
+1. Two Sum - TwoSum.java
+2. Merge Intervals - MergeIntervals.java
+3. Number of Islands - NumberOfIslands.java
+4. Minimum Remove to Make Valid Parentheses - MinimumRemoveToMakeValidParentheses.java
+5. Valid Palindrome II - ValidPalindromeII.java
+6. Valid Parentheses - ValidParentheses.java
+7. Subarray Sum Equals K - SubarraySumEqualsK.java
+8. Longest Substring Without Repeating Characters - LongestSubstringWithoutRepeatingCharacters.java
+9. Kth Largest Element in an Array - KthLargestElementInArray.java
+10. Trapping Rain Water - TrappingRainWater.java
 
 ## Project Layout
 
