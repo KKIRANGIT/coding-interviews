@@ -5,16 +5,16 @@ Each class has a short mindmap comment and a `main` method for quick runs.
 
 ## Problems Included (In Order)
 
-1. Two Sum - TwoSum.java
-2. Merge Intervals - MergeIntervals.java
-3. Number of Islands - NumberOfIslands.java
-4. Minimum Remove to Make Valid Parentheses - MinimumRemoveToMakeValidParentheses.java
-5. Valid Palindrome II - ValidPalindromeII.java
-6. Valid Parentheses - ValidParentheses.java
-7. Subarray Sum Equals K - SubarraySumEqualsK.java
-8. Longest Substring Without Repeating Characters - LongestSubstringWithoutRepeatingCharacters.java
-9. Kth Largest Element in an Array - KthLargestElementInArray.java
-10. Trapping Rain Water - TrappingRainWater.java
+1. Two Sum - P01TwoSum.java
+2. Merge Intervals - P02MergeIntervals.java
+3. Number of Islands - P03NumberOfIslands.java
+4. Minimum Remove to Make Valid Parentheses - P04MinimumRemoveToMakeValidParentheses.java
+5. Valid Palindrome II - P05ValidPalindromeII.java
+6. Valid Parentheses - P06ValidParentheses.java
+7. Subarray Sum Equals K - P07SubarraySumEqualsK.java
+8. Longest Substring Without Repeating Characters - P08LongestSubstringWithoutRepeatingCharacters.java
+9. Kth Largest Element in an Array - P09KthLargestElementInArray.java
+10. Trapping Rain Water - P10TrappingRainWater.java
 
 ## Project Layout
 
@@ -37,7 +37,7 @@ javac -d out src/main/java/com/example/*.java
 Run one class (example):
 
 ```bash
-java -cp out com.example.TwoSum
+java -cp out com.example.P01TwoSum
 ```
 
 ## Input Format

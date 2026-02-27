@@ -56,4 +56,3 @@ public class P06ValidParentheses {
     }
 }
 
-
