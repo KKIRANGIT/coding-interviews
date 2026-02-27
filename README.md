@@ -1,18 +1,44 @@
-# Instructions
+# Coding Interviews - Java (TwoSum)
 
-This repository contains sample code for testing purposes. It is a publicly accessible repository and is not intended for production use.
+This repository contains a minimal Java 17 project with a single program: `TwoSum`.
+It is intentionally small and focused for interview practice.
 
-## Getting Started
+## Project Layout
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+- `src/main/java/com/example/TwoSum.java`
 
-### Prerequisites
+## Requirements
 
+- Java 17
 - Git
 - A code editor or IDE of your choice
 
-### Installing
+## Build and Run
 
-1. Clone the repository using the following command:
+From the repository root:
 
-git clone https://github.com/KKIRANGIT/coding-interviews.git
+```bash
+javac -d out src/main/java/com/example/TwoSum.java
+java -cp out com.example.TwoSum
+```
+
+## Input Format
+
+The program reads two lines from standard input:
+
+1. Array of integers (space or comma separated, optional brackets)
+2. Target integer
+
+Example:
+
+```
+[2, 7, 11, 15]
+9
+```
+
+Expected output:
+
+```
+Indices: 0 1
+Values: 2 7
+```
